@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DAZN Gallery App</string>
+    <string name="no_extra_detected_msg">No extra detected. Hence cannot continue</string>
+</resources>
